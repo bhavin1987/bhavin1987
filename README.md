@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Testing and Java.
 - 🌱 I’m currently learning Java, Spring
 - 💞️ I’m looking to collaborate on Software Testing and Core Java.
-- 📫 Reach me at chandaranabj@gmail.com.
+- 📫 Reach me at bhavin.qa100@gmail.com.
 
 <!---
 bhavin1987/bhavin1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
